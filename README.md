@@ -2,6 +2,7 @@
 Major project for Algorithms and Complexity unit in university. Console software for borrowing DVD's at a library.
 
 What this software demonstrates?
+
 	-Implementation of binary search tree and array data structures
 	-Implementation of bubble sort algorithm
 	-Implementation of algorithms to search, delete and insert nodes into a binary search tree
@@ -15,4 +16,4 @@ Sofware Guide:
 	-Usernames for members are a combination of their first and last name, for example if the first and last name was John Smith, than the username would be JohnSmith
 	-Password for members must be a four digit number
 
-	The software .exe can be found in bin/Debug and it's called CAB301_Assignment
+The software .exe can be found in bin/Debug and it's called CAB301_Assignment
