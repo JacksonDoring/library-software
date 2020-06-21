@@ -12,6 +12,7 @@ What this software demonstrates?
 	-Knowledge of C#
 
 Sofware Guide:
+
 	-Username and password for the staff account is "today123" and "password" respectively
 	-Usernames for members are a combination of their first and last name, for example if the first and last name was John Smith, than the username would be JohnSmith
 	-Password for members must be a four digit number
